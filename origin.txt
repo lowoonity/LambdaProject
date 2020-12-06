@@ -1,0 +1,208 @@
+Uri: https://over-spam.space/
+File Name: c:\Downloaded Web Sites\over-spam.space\index.htm
+Content Type: text/html
+
+Uri: https://over-spam.space/assets/img/index.jpg
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\img\index.jpg
+Content Type: image/jpeg
+
+Uri: https://over-spam.space/assets/img/wumpi.png
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\img\wumpi.png
+Content Type: image/png
+
+Uri: https://over-spam.space/assets/vendor/bootstrap/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://over-spam.space/assets/vendor/icofont/icofont.min.css
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\icofont\icofont.min.css
+Content Type: text/css
+
+Uri: https://over-spam.space/assets/vendor/boxicons/css/boxicons.min.css
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\boxicons\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://over-spam.space/assets/vendor/venobox/venobox.css
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\venobox\venobox.css
+Content Type: text/css
+
+Uri: https://over-spam.space/assets/vendor/owl.carousel/assets/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\owl.carousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://over-spam.space/assets/vendor/aos/aos.css
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\aos\aos.css
+Content Type: text/css
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/css/all.css
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\css\all.css
+Content Type: text/css
+
+Uri: https://over-spam.space/assets/css/style.css
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\css\style.css
+Content Type: text/css
+
+Uri: https://over-spam.space/index.html
+File Name: c:\Downloaded Web Sites\over-spam.space\index.html
+Content Type: text/html
+
+Uri: https://over-spam.space/assets/audio.mp3
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\audio.mp3
+Content Type: audio/mpeg
+
+Uri: https://over-spam.space/assets/img/wall1.gif
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\img\wall1.gif
+Content Type: image/gif
+
+Uri: https://over-spam.space/assets/img/team/yerkoosoldatl.png
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\img\team\yerkoosoldatl.png
+Content Type: image/png
+
+Uri: https://over-spam.space/assets/img/team/Inplex_militaire.jpg
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\img\team\Inplex_militaire.jpg
+Content Type: image/jpeg
+
+Uri: https://over-spam.space/assets/vendor/jquery/jquery.min.js
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://over-spam.space/assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://over-spam.space/assets/vendor/jquery.easing/jquery.easing.min.js
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\jquery.easing\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://over-spam.space/assets/vendor/php-email-form/validate.js
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\php-email-form\validate.js
+Content Type: application/javascript
+
+Uri: https://over-spam.space/assets/vendor/isotope-layout/isotope.pkgd.min.js
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\isotope-layout\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://over-spam.space/assets/vendor/venobox/venobox.min.js
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\venobox\venobox.min.js
+Content Type: application/javascript
+
+Uri: https://over-spam.space/assets/vendor/owl.carousel/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\owl.carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://over-spam.space/assets/vendor/aos/aos.js
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\aos\aos.js
+Content Type: application/javascript
+
+Uri: https://over-spam.space/assets/js/main.js
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://over-spam.space/assets/vendor/icofont/fonts/icofont.woff2
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\icofont\fonts\icofont.bin
+Content Type: application/octet-stream
+
+Uri: https://over-spam.space/assets/vendor/icofont/fonts/icofont.woff
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\icofont\fonts\icofont.woff
+Content Type: application/font-woff
+
+Uri: https://over-spam.space/assets/vendor/boxicons/fonts/boxicons.eot
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\boxicons\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://over-spam.space/assets/vendor/boxicons/fonts/boxicons.woff2
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\boxicons\fonts\boxicons.bin
+Content Type: application/octet-stream
+
+Uri: https://over-spam.space/assets/vendor/boxicons/fonts/boxicons.woff
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\boxicons\fonts\boxicons.woff
+Content Type: application/font-woff
+
+Uri: https://over-spam.space/assets/vendor/boxicons/fonts/boxicons.ttf
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\boxicons\fonts\boxicons-1.bin
+Content Type: application/octet-stream
+
+Uri: https://over-spam.space/assets/vendor/boxicons/fonts/boxicons.svg?
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\boxicons\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://over-spam.space/assets/vendor/owl.carousel/assets/owl.video.play.png
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\vendor\owl.carousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.eot
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.eot?
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.woff2
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-brands-400.bin
+Content Type: application/octet-stream
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.woff
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-brands-400-1.bin
+Content Type: application/octet-stream
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.svg
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.eot
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.eot?
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.woff2
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-regular-400.bin
+Content Type: application/octet-stream
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.woff
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-regular-400-1.bin
+Content Type: application/octet-stream
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.svg
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.eot?
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-solid-900.bin
+Content Type: application/octet-stream
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-solid-900-1.bin
+Content Type: application/octet-stream
+
+Uri: https://over-spam.space/assets/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\fontawesome-free-5.13.0-web\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://over-spam.space/assets/img/cta-bg.jpg
+File Name: c:\Downloaded Web Sites\over-spam.space\assets\img\cta-bg.jpg
+Content Type: image/jpeg
+
